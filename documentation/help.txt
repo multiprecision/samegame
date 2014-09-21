@@ -1,0 +1,10 @@
+Same Game
+
+Rules
+1. There are n x m blocks on a rectangular field.
+2. This field is filled with x kinds of blocks that are placed randomly and checked to make sure there are no y horizontally or vertically adjoined blocks of the same color.
+3. User can swap a block with another block that is vertically or horizontally adjacent.
+4. If there are y horizontally or vertically adjoined blocks of the same color, those blocks will be removed them from the field and the user will gain score points.
+5. The score points are calculated as n(n - 1) where n is the number of blocks removed.
+6. Blocks that are no longer supported will fall down and new blocks will appear from the top.
+7. The objective is to remove as many blocks from the field as possible.

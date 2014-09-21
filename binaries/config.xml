@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<samegame>
+	<column_size>10</column_size>
+	<row_size>10</row_size>
+	<block_width>32</block_width>
+	<block_height>32</block_height>
+	<block_needed>3</block_needed>
+	<block_colors>
+		<color>#FF0000</color>
+		<color>#FFFF00</color>
+		<color>#00FF00</color>
+		<color>#00FFFF</color>
+		<color>#0000FF</color>
+	</block_colors>
+</samegame>

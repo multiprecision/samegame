@@ -1,6 +1,8 @@
+# Generated config file
+/binaries/config.xml
+
 # Intermdiate directory
 intermediate/
-
 ## C++
 
 # Compiled Object files

@@ -2,6 +2,10 @@
 
 A clone of SameGame with configurable size, color, and target.
 
+![](/documentation/screenshot_1.png?raw=true)
+![](/documentation/screenshot_2.png?raw=true)
+![](/documentation/screenshot_3.png?raw=true)
+
 ## Prerequisites
 
 To run the compiled binaries, you should have Microsoft Visual C++ 2013 Redistributeable installed.

@@ -2,9 +2,9 @@
 
 A clone of SameGame with configurable size, color, and target.
 
-![](https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/screenshot_1.png)
-![](https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/screenshot_2.png)
-![](https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/screenshot_3.png)
+![](https://raw.githubusercontent.com/samuelgunadi/samegame/master/documentation/screenshot_1.png)
+![](https://raw.githubusercontent.com/samuelgunadi/samegame/master/documentation/screenshot_2.png)
+![](https://raw.githubusercontent.com/samuelgunadi/samegame/master/documentation/screenshot_3.png)
 
 ## Prerequisites
 
